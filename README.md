@@ -27,7 +27,7 @@ To deploy Khwaab:
 1. *Clone Repository*: Clone the Khwaab repository to your local machine using the following command:
 
    bash
-   git clone https://github.com/thisispriyanshugupta/Khwaab-Dream-Story-Generator.git
+   git clone https://github.com/thisispriyanshugupta/Khwaab-Dream-Story-Generator-Collaboration-project.git
    
 
 2. *Install Dependencies*: Navigate to the project directory and install any necessary dependencies using a package manager like npm or yarn.
